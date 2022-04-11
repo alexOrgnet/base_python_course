@@ -8,6 +8,7 @@
 #проверить работу примера, создав экземпляр и вызвав описанный метод.
 """
 
+
 from time import sleep
 
 class TrafficLight:
